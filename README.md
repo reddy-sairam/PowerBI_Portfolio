@@ -13,7 +13,12 @@ Q5 - Which Country do you live in?
 - The number of survey takers are 630 and average age of survey takers are almost 30 years.
 - Majority of the survey takers are from the 'US' (261 voters).
 - Average salary takers by Job Title.
- - Data scientist are making the highest salary by 93k.
-  -Data Analyst makes the average salary of 53k.
+-Data scientist are making the highest salary by 93k. 
+-Data Analyst makes the average salary of 53k.
+
+
+Python is the most favourite Programming language and used by the most of the Data Analyst Professionals.
+ 
+  
 -Python is the most favourite Programming language and used by the most of the Data Analyst Professionals.
 -Happiness with respect to job is 4.27.
