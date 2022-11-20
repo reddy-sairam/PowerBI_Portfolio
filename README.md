@@ -2,8 +2,8 @@
 ### SOURCE
 This data has been taken from the AlexTheAnalyst where he has conducted real survey who are from different Professional and country.
 ### DATA CLEANING 
--The raw data file has been taken from excel and done cleaning of data in POWERBI.
--The data cleaning made in Power bi are
+- The raw data file has been taken from excel and done cleaning of data in POWERBI.
+- The data cleaning made in Power bi are
 - Q1. Which Title Best Fits your Current Role?
 - Q2. Current Yearly Salary (in USD)
 - Q3. What Industry do you work in?
